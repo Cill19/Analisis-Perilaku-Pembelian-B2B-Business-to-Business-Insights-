@@ -61,8 +61,4 @@ Berdasarkan analisis, kami merekomendasikan:
 
 ---
 
-## 🔗 Struktur File
-. ├── Laporan Penjualan Amazon.csv # Dataset sumber └── B2B_Analysis_Notebook.ipynb # Notebook Google Colab/Jupyter (Kode Python) └── README.md # Dokumen ini
----
 
-*Project ini dibuat oleh [Nama Anda] sebagai bagian dari portofolio Analis Data.*
